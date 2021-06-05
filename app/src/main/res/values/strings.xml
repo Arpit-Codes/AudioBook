@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AudioBook</string>
+    <string name="play">Play</string>
+    <string name="set_speed">Set Speed</string>
+    <string name="stop">Stop</string>
+    <string name="set_pitch">Set Pitch</string>
+</resources>
